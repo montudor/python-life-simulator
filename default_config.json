@@ -27,19 +27,19 @@
         "primary": {
             "baby": [
                 {
-                    "text": "{actor} was born happy and healthy",
+                    "text": "{actor} ({gender}) was born happy and healthy",
                     "type": "birth"
                 },
                 {
-                    "text": "A child pops out, their name is {actor}",
+                    "text": "A child pops out, their name is {actor} ({gender})",
                     "type": "birth"
                 },
                 {
-                    "text": "{actor} was born underweight",
+                    "text": "{actor} ({gender}) was born underweight",
                     "type": "birth"
                 },
                 {
-                    "text": "{actor} was born obese",
+                    "text": "{actor} ({gender}) was born obese",
                     "type": "birth"
                 }
             ],
