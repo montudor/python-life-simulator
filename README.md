@@ -1,6 +1,11 @@
-# Python Life Simulator
+# Life Simulator
 
-A life simulator built in Python. This is just a small hobby project, feel free to contribute or create issues if you find any.
+[![forthebadge](https://forthebadge.com/images/badges/designed-in-ms-paint.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+
+A simple text-based life simulator game. This is just a small hobby project, feel free to contribute by sending
+a pull request or create an issue if you find a problem.
 
 ## Debugging
 
